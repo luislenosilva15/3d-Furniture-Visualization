@@ -1,0 +1,4 @@
+repository "moveisVirtual@KratosDaTI@cloud"
+  path "/"
+    br "/main"
+    co "/main"
